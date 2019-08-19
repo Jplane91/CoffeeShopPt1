@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{BB044450-C0FF-42E7-BB56-13D5CFE753B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShop/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="CoffeeShop/Controllers/HomeController.cs" Line="48" Column="30" />
+      <File FileName="CoffeeShop/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="CoffeeShop/wwwroot/css/site.css" />
+      <File FileName="CoffeeShop/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="CoffeeShop/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="CoffeeShop/Models/PersonInfo.cs" Line="19" Column="1" />
+      <File FileName="CoffeeShop/Views/Home/Registration.cshtml" Line="15" Column="2" />
+      <File FileName="CoffeeShop/Models/ErrorViewModel.cs" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.razor.design/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets" />
+      <File FileName="CoffeeShop/EnrollUser.cshtml" Line="8" Column="1" />
+      <File FileName="CoffeeShop/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoffeeShop" expanded="True">
+            <Node name="CoffeeShop" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoffeeShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.razor.design/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets" line="131" column="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
